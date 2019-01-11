@@ -1,5 +1,5 @@
 # Song Release Year Prediction
-##Linear Regression
+## Linear Regression
 
 **Name**
 
@@ -38,5 +38,6 @@ in given output file.
 **Checking Program**
 
 Normalized mean squared error will be used as an evaluation criterion:
-    error = \frac{\sum_{i=1}^{m} (y_i - \hat{y_i})^2}{\sum_{i=1}^{m} (y_i - min\_val)^2}
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\sum_{i=1}^{m}&space;(y_i&space;-&space;\hat{y_i})^2}{\sum_{i=1}^{m}&space;(y_i&space;-&space;min\_val)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\sum_{i=1}^{m}&space;(y_i&space;-&space;\hat{y_i})^2}{\sum_{i=1}^{m}&space;(y_i&space;-&space;min\_val)^2}" title="\frac{\sum_{i=1}^{m} (y_i - \hat{y_i})^2}{\sum_{i=1}^{m} (y_i - min\_val)^2}" /></a>
 
